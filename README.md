@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Suka belajar, terutama dunia pemrograman ^^
-- 📫 How to reach me: this (linktr.ee/danuarta_me)
+- 📫 How to reach me: https://linktr.ee/danuarta_me
